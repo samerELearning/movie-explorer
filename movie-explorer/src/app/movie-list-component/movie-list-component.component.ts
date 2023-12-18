@@ -10,7 +10,13 @@ import { CommonModule } from '@angular/common';
 })
 export class MovieListComponentComponent {
 
-  movies = ['Movie 1', 'Movie 2', 'Movie 3'];
+  movies = [
+    {
+      title: 'Thor: Love and Thunder',
+      img: 'https://image.tmdb.org/t/p/w500/pIkRyD18kl4FhoCNQuWxWu5cBLM.jpg',
+      description: 'After his retirement is interrupted by Gorr the God Butcher...'
+    }
+  ];
 
   constructor()
   {
