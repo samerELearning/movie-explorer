@@ -38,5 +38,3 @@ To run this Angular movie application locally, follow these steps:
 This project utilizes the TMDb (The Movie Database) API provided by themoviedb.org, which offers a robust API service free for use under certain conditions.
 
 Please refer to the TMDb API documentation for information on how to properly attribute and use their service. You can find the documentation at [developer.themoviedb.org](https://developer.themoviedb.org/).
-
-Attribution for data and images sourced from TMDb should be provided as per their guidelines and terms of service. Additionally, consider providing appropriate credit and references in your application where TMDb data or images are displayed.
